@@ -1,0 +1,38 @@
+.bgimg2 {
+	background-image: url('https://res.cloudinary.com/dvsuef6ac/image/upload/v1672307436/17d1888c37bfe6d381a3d57d8aa5448e_iyh7s4.jpg');
+	background-size: cover;
+	height: 150vh;
+}
+.mobilehead {
+	font-family: Roboto;
+	font-weight: bolder;
+	color: floralwhite;
+	font-size: 35px;
+	padding: 25px;
+}
+.layoutcard2 {
+	background-color:white;
+	border-radius: 8px;
+	padding: 10px;
+	margin: 18px;
+
+}
+.brandsimg {
+	width: 100px;
+	height: 100px;
+}
+.brandshead {
+	color:#041836;
+	font-family: 'Roboto';
+	font-weight: bold;
+	font-size: 30px;
+}
+.brandspara {
+	color: darkgrey;
+	font-family: 'Roboto';
+	font-size: 15px;
+}
+
+button{
+	width: 200px;
+}

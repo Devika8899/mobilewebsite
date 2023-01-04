@@ -1,0 +1,21 @@
+.bgimg {
+	background-image: url('https://res.cloudinary.com/dvsuef6ac/image/upload/v1672226107/images_nykojw.jpg');
+	background-size:  cover;
+	height: 100vh;
+}
+.layoutcard{
+	background-color: green;
+	height: 200;
+	border-top-left-radius: 20px;
+	border-top-right-radius: 20px;
+
+}
+.heading{
+	color: black;
+	font-family: 'Roboto';
+	font-weight: bold;
+}
+.paraline{
+	font-family: 'Roboto';
+	color: darkgray;
+}
